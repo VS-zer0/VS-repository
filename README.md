@@ -7,3 +7,4 @@
 ## ИСР 1.2
 ![ИСР 1.2](https://github.com/VS-zer0/VS-repository/blob/main/%D0%98%D0%A1%D0%A0%201.2.png)
 
+## ![ИСР 1.3](https://github.com/VS-zer0/VS-repository/blob/main/%D0%98%D0%A1%D0%A0%201.3%20%D0%A1%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D1%8B%20%D0%98%D0%A2.pdf)
