@@ -29,3 +29,5 @@
 ## ![ВСР 2.1 - Эргономика рабочего места программиста](https://github.com/VS-zer0/VS-repository/blob/main/%D0%92%D0%A1%D0%A0%202.1%20%D0%AD%D1%80%D0%B3%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0%20%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B5%D0%B3%D0%BE%20%D0%BC%D0%B5%D1%81%D1%82%D0%B0.pdf)
 
 ## ![ВСР 2.2 - Кодекс этики и профессиональной деятельноссти в области программной инженерии](https://github.com/VS-zer0/VS-repository/blob/main/%D0%92%D0%A1%D0%A0%202.2%20%D0%9A%D0%BE%D0%B4%D0%B5%D0%BA%D1%81%20%D1%8D%D1%82%D0%B8%D0%BA%D0%B8.pdf)
+
+## ![ВСР 2.3 - Прикладное Программное Обеспечение](https://github.com/VS-zer0/VS-repository/blob/main/%D0%92%D0%A1%D0%A0%202.3%20%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D0%BE%D0%B5%20%D0%9F%D0%9E.pdf)
